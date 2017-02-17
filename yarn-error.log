@@ -1,0 +1,34 @@
+Arguments: 
+  /usr/local/bin/node /Users/jamesshabo/.npm-packages/bin/yarn add react
+
+PATH: 
+  /Users/jamesshabo/.npm-packages/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  0.16.1
+
+Node version: 
+  7.0.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+bower manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /Users/jamesshabo/TIYprojects/JasonShaboReact/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/jamesshabo/.npm-packages/lib/node_modules/yarn/lib/util/fs.js:271:57
+      at Generator.next (<anonymous>)
+      at step (/Users/jamesshabo/.npm-packages/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+      at /Users/jamesshabo/.npm-packages/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:28:13
